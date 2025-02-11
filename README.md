@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, my name is Md Motasaddik Azmine
+#### 🚀 Passionate Software Engineering Student | Future Cybersecurity Enthusiast
+I’m a 2nd-year Software Engineering student passionate about coding and problem-solving. Currently, I’m learning C, C++, Python, Java, DSA, OOP, and SQL to build a strong foundation in programming. My goal is to transition into the Cybersecurity field after completing my degree. I love applying what I learn by working on projects and continuously improving my skills. Let’s connect and grow together! 🌱
+
+Skills: C, C++, Python, Java, DSA, OOP, SQL
+
+- 🔭 I’m currently working on Air Affordi 
+- 🌱 I’m currently learning C, C++, Python, Java, DSA, OOP, SQL 
+- 👯 I’m looking to collaborate on Github 
+- 📫 How to reach me: mdazmainzim@gmail.com 
+- ⚡ Fun fact: I can spend hours debugging code and still enjoy it!  
 
 
-**Azmine-Zim/Azmine-Zim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Azmine-Zim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-motasaddik-azmine/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.zim.353)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/azminezim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/azmine_zim)  
 
-Here are some ideas to get you started:
+![GitHub metrics](https://metrics.lecoq.io/Azmine-Zim)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Azmine-Zim)  
 
