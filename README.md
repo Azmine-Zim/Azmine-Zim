@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Md Motasaddik Azmine
-#### 🚀 Passionate Software Engineering Student | Future Cybersecurity Enthusiast
+## Hi there 👋, my name is Md Motasaddik Azmine
+### 🚀 Passionate Software Engineering Student | Future Cybersecurity Enthusiast
 I’m a 2nd-year Software Engineering student passionate about coding and problem-solving. Currently, I’m learning C, C++, Python, Java, DSA, OOP, and SQL to build a strong foundation in programming. My goal is to transition into the Cybersecurity field after completing my degree. I love applying what I learn by working on projects and continuously improving my skills. Let’s connect and grow together! 🌱
 
 Skills: C, C++, Python, Java, DSA, OOP, SQL
