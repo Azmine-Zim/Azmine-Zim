@@ -4,7 +4,7 @@ I’m a 2nd-year Software Engineering student passionate about coding and proble
 
 Skills: C, C++, Python, Java, DSA, OOP, SQL
 
-- 🔭 I’m currently working on Air Affordi 
+- 🔭 I’m currently working at Air Affordi 
 - 🌱 I’m currently learning C, C++, Python, Java, DSA, OOP, SQL 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: mdazmainzim@gmail.com 
