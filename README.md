@@ -26,7 +26,7 @@
 
 > *"The quieter you become, the more you are able to hear." — Kali Linux*
 
-I'm a **3rd-year Software Engineering student** driven by a deep passion for **Cybersecurity** and **Ethical Hacking**. I enjoy breaking problems apart, understanding how systems work, and building more secure ones.
+I'm a **final-year Software Engineering student** driven by a deep passion for **Cybersecurity** and **Ethical Hacking**. I enjoy breaking problems apart, understanding how systems work, and building more secure ones.
 
 | | |
 |---|---|
